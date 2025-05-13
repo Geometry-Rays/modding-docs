@@ -25,9 +25,13 @@ A bunch of variables have a get and set function
 
 Variables you can change:
 
-1. velocity_y
-2. gravity
-3. default_gravity
+- velocity_y
+- gravity
+- default_gravity
+- jump_force
+- default_jump_force
+- movement_speed
+- default_movement_speed
 
 To change a variable do variable_name:set(value)
 
