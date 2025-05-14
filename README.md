@@ -32,6 +32,8 @@ Variables you can change:
 - default_jump_force
 - movement_speed
 - default_movement_speed
+- ship_power
+- ship_falling_speed
 
 To change a variable do variable_name:set(value)
 
