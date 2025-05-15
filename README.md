@@ -18,6 +18,10 @@ return {
     loop = function()
         -- Code that runs every frame
     end
+
+    draw = function()
+        -- Code for drawing stuff to the screen
+    end
 }
 ```
 
