@@ -38,6 +38,9 @@ Variables you can change:
 - default_movement_speed
 - ship_power
 - ship_falling_speed
+- game_state
+- vertical_wave_speed
+- game_tps
 
 To change a variable do variable_name:set(value)
 
