@@ -16,3 +16,8 @@ The possible values are:
 - "Editor"
 - "LevelComplete"
 - "LevelSettings" The menu in the editor that lets you change stuff about your level (song, colors, etc)
+- "SearchPage" The menu that shows when you hit the search button in the creator menu
+- "LevelPage" The page for an online level after you download it
+- "AccountPage" The login/register page
+- "LevelUpload"
+- "EditorKeybinds" The editor keybinds guide
