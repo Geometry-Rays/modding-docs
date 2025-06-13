@@ -1,9 +1,9 @@
 # Modding Docs
 The documentation for the geometry rays fyre modding api
 
-To get started make a file in the mods dir in geometry rays fyre.
+To get started make a file in the mods directory in the root folder of geometry rays fyre.
 
-Call it anynamehere.lua
+Call the file anything you want as long as it ends with .lua
 
 Basic structure:
 
