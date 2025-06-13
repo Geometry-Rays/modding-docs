@@ -21,3 +21,4 @@ The possible values are:
 - "AccountPage" The login/register page
 - "LevelUpload"
 - "EditorKeybinds" The editor keybinds guide
+- "ChatMenu" The menu for the chatroom
